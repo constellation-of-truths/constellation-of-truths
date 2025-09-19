@@ -4,9 +4,9 @@ menu:
 - {name: 'events', url: '/events'}
 
 people:
-- {name: 'Emma Swan, PhD', }
-- {name: 'Maria Sigridur Finnsdottir, PhD', affiliation: 'Humanities & Social Sciences Specialist, Digital Research Services', institution: 'University of Alberta', email: '', image: 'assets/img/maria.jpg', url: 'https://mariasfinnsdottir.ca'}
-- {name: 'Jules Soupault', affiliation: 'Doctoral Student, School of Public Administration', institution: 'University of Victoria', email: '', image: 'assets/img/graduate-student.jpg', url: ''}
+- {name: 'Emma Swan, PhD', affiliation: 'Assistant Teaching Professor, Department of Political Science', institution: 'University of Victoria', image: 'assets/img/emmaswan.jpeg', url: 'https://www.uvic.ca/research/centres/globalstudies/people/fellows/swanemma.php' }
+- {name: 'Maria Sigridur Finnsdottir, PhD', affiliation: 'Humanities & Social Sciences Specialist, Digital Research Services', institution: 'University of Alberta', email: '', image: 'assets/img/maria.jpeg', url: 'https://mariasfinnsdottir.ca'}
+- {name: 'Jules Soupault', affiliation: 'Doctoral Student, School of Public Administration', institution: 'University of Victoria', email: '', image: 'assets/img/jules.png', url: 'https://biglobalization.org/profiles/jules-soupault/'}
 - {name: 'Helga Hallgrimsdottir, PhD', affiliation: 'Deputy Provost', institution: 'University of Victoria', email: '', image: 'assets/img/helga-hallgrimsdottir.jpg', url: 'https://www.uvic.ca/vpacademic/about-contacts/avps-staff/profile-pages/hallgrimsdottir-helga.php'}
 - {name: 'Emmanuel Brunet-Jailly, PhD', affilation: 'Professor, School of Public Administration & Director, Borders in Globalization Project', institution: 'University of Victoria', image: 'assets/img/Emmanuel-Brunet-Jailly.jpg', url: 'https://biglobalization.org/profiles/emmanuel-brunet-jailly/'}
 
