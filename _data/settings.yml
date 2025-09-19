@@ -1,0 +1,14 @@
+menu:
+- {name: 'people', url: '/people'}
+- {name: 'publications', url: '/publications'}
+
+people:
+- {name: 'Emma Swan, PhD', title: 'Researcher', department: 'Political Science', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Maria Sigridur Finnsdottir, PhD', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Jules Soupault', title: 'Doctoral Fellow, Borders in Globalization', department: 'School of Public Administration', institution: 'University of Victoria', email: 'hello@university.edu', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+social:
+- {icon: 'github', link: 'https://github.com/LeNPaul'}
+- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
