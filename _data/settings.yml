@@ -8,7 +8,7 @@ people:
 - {name: 'Maria Sigridur Finnsdottir, PhD', affiliation: 'Humanities & Social Sciences Specialist, Digital Research Services', institution: 'University of Alberta', email: '', image: 'assets/img/maria.jpeg', url: 'https://mariasfinnsdottir.ca'}
 - {name: 'Jules Soupault', affiliation: 'Doctoral Student, School of Public Administration', institution: 'University of Victoria', email: '', image: 'assets/img/jules.png', url: 'https://biglobalization.org/profiles/jules-soupault/'}
 - {name: 'Helga Hallgrimsdottir, PhD', affiliation: 'Deputy Provost', institution: 'University of Victoria', email: '', image: 'assets/img/helga-hallgrimsdottir.jpg', url: 'https://www.uvic.ca/vpacademic/about-contacts/avps-staff/profile-pages/hallgrimsdottir-helga.php'}
-- {name: 'Emmanuel Brunet-Jailly, PhD', affilation: 'Professor, School of Public Administration & Director, Borders in Globalization Project', institution: 'University of Victoria', image: 'assets/img/Emmanuel-Brunet-Jailly.jpg', url: 'https://biglobalization.org/profiles/emmanuel-brunet-jailly/'}
+- {name: 'Emmanuel Brunet-Jailly, PhD', affiliation: 'Professor, School of Public Administration & Director, Borders in Globalization Project', institution: 'University of Victoria', image: 'assets/img/Emmanuel-Brunet-Jailly.jpg', url: 'https://biglobalization.org/profiles/emmanuel-brunet-jailly/'}
 
 events:
 - {name: 'Constellation of Truths Spring 2025 Workshop', description: 'The project members hosted an interdisciplinary conference on border politics at the University of Victoria in April 2025.', url: 'cot_workshop_2025', image: './assets/img/network.png'}
