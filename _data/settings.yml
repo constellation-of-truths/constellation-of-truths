@@ -9,4 +9,4 @@ people:
 - {name: 'Jules Soupault', title: 'Doctoral Fellow, Borders in Globalization', department: 'School of Public Administration', institution: 'University of Victoria', email: 'hello@university.edu', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 events:
-- {name: 'Constellation of Truths Spring 2025 Workshop', description: 'The project members hosted an interdisciplinary conference on border politics at the University of Victoria in April 2025.', url: './events/cot_workshop_2025.md', img: '/assets/img/network.png'}
+- {name: 'Constellation of Truths Spring 2025 Workshop', description: 'The project members hosted an interdisciplinary conference on border politics at the University of Victoria in April 2025.', url: '/events/cot_workshop_2025.md', img: './assets/img/network.png'}
