@@ -4,7 +4,7 @@ title: "Constellation of Truths - Spring 2025 Workshop"
 ---
 
 <p align="center"><b>Constellation of truths: Towards a conceptualization of borders, (un)civil society, and contentious politics</b></p>
-*April 7th & 8th, 2025, University of Victoria.*
+<p align="center"><i>April 7th & 8th, 2025, University of Victoria.</i></p>
 
 Members of the Borders in Globalization (BIG) Lab team hosted a workshop event in April 2025 bringing scholars from across the world together to discuss issues of populism, civil society contention, and border politics. The workshop featured panel presentations by emerging and established scholars working on topics including the discursive making of borders, the politics of resistance in border regions, the imperial and colonial dimensions of borders, and the role of populism and ‘post-truth’ in border contention. 
 
