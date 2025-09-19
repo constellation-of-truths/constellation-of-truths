@@ -4,10 +4,10 @@ menu:
 - {name: 'events', url: '/events'}
 
 people:
-- {name: 'Emma Swan, PhD', title: 'Researcher', department: 'Political Science', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Maria Sigridur Finnsdottir, PhD', affiliation: 'Humanities & Social Sciences Specialist, Digital Research Services', institution: 'University of Alberta', email: 'mariafin@uvic.ca', image: 'assets/img/maria.jpg', url: './people/maria'}
-- {name: 'Jules Soupault', affiliation: '', institution: 'University of Victoria', email: 'hello@university.edu', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
-- {name: 'Helga Hallgrimsdottir, PhD', affiliation: 'Deputy Provost', instition: 'University of Victoria', email: '', image: 'assets/img/helga-hallgrimsdottir.jpg', url: 'https://www.uvic.ca/vpacademic/about-contacts/avps-staff/profile-pages/hallgrimsdottir-helga.php'}
+- {name: 'Emma Swan, PhD', }
+- {name: 'Maria Sigridur Finnsdottir, PhD', affiliation: 'Humanities & Social Sciences Specialist, Digital Research Services', institution: 'University of Alberta', email: '', image: 'assets/img/maria.jpg', url: 'https://mariasfinnsdottir.ca'}
+- {name: 'Jules Soupault', affiliation: 'Doctoral Student, School of Public Administration', institution: 'University of Victoria', email: '', image: 'assets/img/graduate-student.jpg', url: ''}
+- {name: 'Helga Hallgrimsdottir, PhD', affiliation: 'Deputy Provost', institution: 'University of Victoria', email: '', image: 'assets/img/helga-hallgrimsdottir.jpg', url: 'https://www.uvic.ca/vpacademic/about-contacts/avps-staff/profile-pages/hallgrimsdottir-helga.php'}
 - {name: 'Emmanuel Brunet-Jailly, PhD', affilation: 'Professor, School of Public Administration & Director, Borders in Globalization Project', institution: 'University of Victoria', image: 'assets/img/Emmanuel-Brunet-Jailly.jpg', url: 'https://biglobalization.org/profiles/emmanuel-brunet-jailly/'}
 
 events:
