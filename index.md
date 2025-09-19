@@ -6,6 +6,6 @@ As a result of the increasingly politicized nature of borders and migration, bor
 
 This project applies the novel framework <i>Constellation of Truths</i> to a study guided by the question: in a world increasingly marred by contested truths and populist imaginaries, how are (un)civil society actors engaging in the discursive construction of border politics?
 
-This project is led by Drs. [Emma Swan](./people/emma.md) and [Maria Sigridur Finnsdottir](./people/maria.md), along with their collaborator [Jules Soupault](./people/jules.md). They work under the supervision of Drs. Helga Hallgrimsdottir and Emmanuel Brunet-Jailly. 
+This project is led by Drs. Emma Swan and Maria Sigridur Finnsdottir, along with their collaborators Jules Soupault, Dr. Helga Hallgrimsdottir, and Dr. Emmanuel Brunet-Jailly. 
 
 The *Constellation of Truths* project is funded by a SSHRC Insight Development grant through fall 2027. 
